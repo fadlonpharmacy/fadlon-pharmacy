@@ -31,3 +31,10 @@
 ## Optional
 
 - [خريطة الموقع](https://fadlonpharmacy.github.io/fadlon-pharmacy/sitemap.xml)
+
+## More pages
+- [مناطق التوصيل](https://fadlonpharmacy.github.io/fadlon-pharmacy/areas.html)
+- [عن صيدلية فضلون](https://fadlonpharmacy.github.io/fadlon-pharmacy/about.html)
+- [إزاي تحفظ الأدوية في الصيف](https://fadlonpharmacy.github.io/fadlon-pharmacy/medicine-storage.html)
+- [محتويات شنطة إسعافات أولية للبيت](https://fadlonpharmacy.github.io/fadlon-pharmacy/first-aid-kit.html)
+- [صيدلية 24 ساعة في أكتوبر الجديدة](https://fadlonpharmacy.github.io/fadlon-pharmacy/night.html)
