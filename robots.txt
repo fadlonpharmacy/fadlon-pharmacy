@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fadlonpharmacy.github.io/fadlon-pharmacy/sitemap.xml
