@@ -53,3 +53,8 @@
 - [عناية الطفل الرضيع](https://fadlonpharmacy.github.io/fadlon-pharmacy/baby-care.html)
 - [قياس الضغط في البيت](https://fadlonpharmacy.github.io/fadlon-pharmacy/blood-pressure-home.html)
 - [وجع المعدة والمغص](https://fadlonpharmacy.github.io/fadlon-pharmacy/stomach-upset.html)
+- [التهاب الحلق](https://fadlonpharmacy.github.io/fadlon-pharmacy/sore-throat.html)
+- [الصداع](https://fadlonpharmacy.github.io/fadlon-pharmacy/headache.html)
+- [قياس السكر في البيت](https://fadlonpharmacy.github.io/fadlon-pharmacy/diabetes-supplies.html)
+- [فيتامينات الحمل](https://fadlonpharmacy.github.io/fadlon-pharmacy/pregnancy-vitamins.html)
+- [نصائح لنوم أحسن](https://fadlonpharmacy.github.io/fadlon-pharmacy/sleep-tips.html)
