@@ -48,3 +48,8 @@
 - [فيتامين د](https://fadlonpharmacy.github.io/fadlon-pharmacy/vitamin-d.html)
 - [الحديد والأنيميا](https://fadlonpharmacy.github.io/fadlon-pharmacy/iron-anemia.html)
 - [الحساسية](https://fadlonpharmacy.github.io/fadlon-pharmacy/allergy.html)
+- [روتين عناية بالبشرة](https://fadlonpharmacy.github.io/fadlon-pharmacy/skin-routine.html)
+- [تساقط الشعر](https://fadlonpharmacy.github.io/fadlon-pharmacy/hair-loss.html)
+- [عناية الطفل الرضيع](https://fadlonpharmacy.github.io/fadlon-pharmacy/baby-care.html)
+- [قياس الضغط في البيت](https://fadlonpharmacy.github.io/fadlon-pharmacy/blood-pressure-home.html)
+- [وجع المعدة والمغص](https://fadlonpharmacy.github.io/fadlon-pharmacy/stomach-upset.html)
