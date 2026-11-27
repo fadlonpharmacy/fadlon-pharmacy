@@ -63,3 +63,4 @@
 - [توصيل الروشتة](https://fadlonpharmacy.github.io/fadlon-pharmacy/prescription-delivery.html)
 - [حرارة الأطفال](https://fadlonpharmacy.github.io/fadlon-pharmacy/kids-fever.html)
 - [حفظ الإنسولين](https://fadlonpharmacy.github.io/fadlon-pharmacy/insulin-storage.html)
+- [حقايق عن صيدلية فضلون](https://fadlonpharmacy.github.io/fadlon-pharmacy/trust.html)
