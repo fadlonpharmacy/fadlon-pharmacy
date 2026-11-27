@@ -44,3 +44,7 @@
 - [الخمول والإرهاق](https://fadlonpharmacy.github.io/fadlon-pharmacy/fatigue.html)
 - [علاج الكحة](https://fadlonpharmacy.github.io/fadlon-pharmacy/cough.html)
 - [الإنفلونزا ونزلات البرد](https://fadlonpharmacy.github.io/fadlon-pharmacy/flu.html)
+- [إزاي تطلب دوا على واتساب](https://fadlonpharmacy.github.io/fadlon-pharmacy/order-whatsapp.html)
+- [فيتامين د](https://fadlonpharmacy.github.io/fadlon-pharmacy/vitamin-d.html)
+- [الحديد والأنيميا](https://fadlonpharmacy.github.io/fadlon-pharmacy/iron-anemia.html)
+- [الحساسية](https://fadlonpharmacy.github.io/fadlon-pharmacy/allergy.html)
