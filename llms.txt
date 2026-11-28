@@ -65,3 +65,4 @@
 - [حفظ الإنسولين](https://fadlonpharmacy.github.io/fadlon-pharmacy/insulin-storage.html)
 - [حقايق عن صيدلية فضلون](https://fadlonpharmacy.github.io/fadlon-pharmacy/trust.html)
 - [صيدلية بتوصل حدائق أكتوبر](https://fadlonpharmacy.github.io/fadlon-pharmacy/hadayek-october.html)
+- [صيدلية 24 ساعة في 6 أكتوبر](https://fadlonpharmacy.github.io/fadlon-pharmacy/october-24h.html)
